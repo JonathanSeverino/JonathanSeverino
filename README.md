@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/JonathanSeverino">
-  <img height="1600em" src="https://github-readme-stats.vercel.app/api?username=JonathanSeverino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JonathanSeverino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSeverino&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
