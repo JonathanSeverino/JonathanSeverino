@@ -15,8 +15,8 @@
  ##
   
  <div>
-   <a href="https://www.linkedin.com/in/jonathan-severino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:jonathandesouza046@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="jonathan-severino"><a class="LI-simple-link" href='https://br.linkedin.com/in/jonathan-severino?trk=profile-badge'>Jonathan de Souza S. da Silva</a></div>
+  
  
   </div>
 
