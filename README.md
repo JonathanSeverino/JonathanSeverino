@@ -27,6 +27,8 @@
    <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/JonathanSeverino/devicon/master/icons/linux/linux-original.svg">
    <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/JonathanSeverino/devicon/master/icons/debian/debian-original.svg">
    <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/JonathanSeverino/devicon/master/icons/jupyter/jupyter-original.svg">
+   
+   ![Snake animation](https://github.com/JonathanSeverino/JonathanSeverino/blob/output/github-contribution-grid-snake.svg)
   </div>
 
 
