@@ -19,5 +19,14 @@
     <a href = "mailto:jonathandesouza046@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   </div>
+  
+  ##
+  <div>
+   <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/JonathanSeverino/devicon/master/icons/python/python-original.svg">
+   <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/JonathanSeverino/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+   <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/JonathanSeverino/devicon/master/icons/linux/linux-original.svg">
+   <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/JonathanSeverino/devicon/master/icons/debian/debian-original.svg">
+   <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/JonathanSeverino/devicon/master/icons/jupyter/jupyter-original.svg">
+  </div>
 
 
