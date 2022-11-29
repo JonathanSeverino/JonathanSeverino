@@ -2,7 +2,7 @@
 
 
 
-- Sou Estagiário de Enganharia na Vale.
+- Sou Fiscal de Obras Elétricas na área da Vale.
 - Estou costantemente estudando Python e C++.
 - Usuário Linux!
 
